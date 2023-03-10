@@ -30,4 +30,4 @@ Connection: close
 
 The concat statement executes successfully
 
-![https://github.com/tangtangtang123456/bug_report/blob/main/pictures/1.png]
+![image](https://github.com/tangtangtang123456/bug_report/blob/main/pictures/1.png)
