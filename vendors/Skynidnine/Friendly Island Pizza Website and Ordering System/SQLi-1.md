@@ -2,8 +2,6 @@
 
 BUG_Author:tangtangtang123456
 
-Website source address：https://www.sourcecodester.com/php/14730/friendly-island-pizza-website-php-mysql.html
-
 Vulnerability File: /FriendlyIsPizzaWebsite/large.php
 
 GET parameter 'id' exists SQL injection vulnerability
