@@ -1,6 +1,6 @@
 # Friendly Island Pizza Website and Ordering System v1.0 has SQL injection
 
-BUG_Author: a-xsg
+BUG_Author:tangtangtang123456
 
 Website source address：https://www.sourcecodester.com/php/14730/friendly-island-pizza-website-php-mysql.html
 
